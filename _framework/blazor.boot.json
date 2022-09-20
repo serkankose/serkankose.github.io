@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "FinancialFormulas.dll": "sha256-AFFyLFmtzE3SehPFFQ8PA7tX\/MtfGsZd25BHRQkRm6U=",
-      "Formulas.dll": "sha256-B\/TsQM9C7bQ+G+qFqvlJRSrJE5apPB0nbD1srr53adw=",
+      "Formulas.dll": "sha256-yVWQ8sRIenx1ZvEyrOX2DglBNhu4ppOwDToaeMDGX40=",
       "Microsoft.AspNetCore.Components.dll": "sha256-T5e417P98wuh15WqoHTP6bJqpe1GOmYF1ELTJkXpv7o=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-3poIVMWCfVe6wCEbZLU0PCR7HN9OqcH3qnn9xI4+vuw=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-WasyeyYTHVFINaKU2jkYAe37pDZBvtTueW3ySFvnDps=",
@@ -33,7 +33,7 @@
       "System.Net.Http.dll": "sha256-OW5RWMi5AlqcnHWJZ5aKIl3GvVkKqsEFi6dcC8d2BQY=",
       "System.Net.Http.Json.dll": "sha256-8l8BxtDi1ZNcJ8D+LYOptJnkYwSv3vEgxJK7\/t7iB\/4=",
       "System.Net.Primitives.dll": "sha256-LqGF8jLK\/xkEZfkMO+egUVPtqWf9WnnYrQ0IGW8NbAc=",
-      "System.Private.CoreLib.dll": "sha256-KstErhOPZYMxMUNiAZoi26dyeeYxniv3XPIYMbwvwHU=",
+      "System.Private.CoreLib.dll": "sha256-csUqW2YHhHrOf3igsWgvGGSuG2zyXMt5dVH4VrCZRww=",
       "System.Private.Runtime.InteropServices.JavaScript.dll": "sha256-1ArV2GZsIzNnN8cWlcR7r8H+Aqq31uH+jIJuJcJlimE=",
       "System.Private.Uri.dll": "sha256-3NZYftZNvyKmhoUptFD8y41j5JDT0XBS4FhTjOMdfqk=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-I9dnbWqqCBzLob46RNl8X\/n3shsqYGg6HGTjAwQdk6w=",
